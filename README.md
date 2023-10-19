@@ -1,0 +1,2 @@
+# GitFajlok
+GitHubon létrehozva SB
