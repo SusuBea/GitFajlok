@@ -1,1 +1,6 @@
-system.out.
+class{
+	void kiir(){
+	system.out.
+}
+
+}
